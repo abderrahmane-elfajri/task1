@@ -1,3 +1,9 @@
+commit 4c7e102db8a89159bf3e7c2483f57759d1f6da93
+Author: abderrahmane <abderrahmane.elfajri-etu@etu.univh2c.ma>
+Date:   Tue Nov 19 14:06:55 2024 +0100
+
+    Add git log output to log.txt
+
 commit 0ac92d9fd1a942de7806653764bca5b85633ff30
 Author: abderrahmane <abderrahmane.elfajri-etu@etu.univh2c.ma>
 Date:   Tue Nov 19 14:03:52 2024 +0100
